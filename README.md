@@ -41,7 +41,7 @@ CREATE TABLE table_try1 (
 Check syntax of MySQL. For example here:
 - [MySQL Syntax Check](https://www.piliapp.com/mysql-syntax-check/)
 
-```sql
+```mysql
 show databases ;
 use [database];
 show tables;
