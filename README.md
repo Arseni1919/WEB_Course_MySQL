@@ -41,5 +41,11 @@ CREATE TABLE table_try1 (
 Check syntax of MySQL. For example here:
 - [MySQL Syntax Check](https://www.piliapp.com/mysql-syntax-check/)
 
+```sql
+show databases ;
+use [database];
+show tables;
+```
+
 You can explore all the possibilities of MySQL here.
 - [MySQL docs](https://dev.mysql.com/doc/connector-python/en/)
