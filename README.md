@@ -52,4 +52,4 @@ You can explore all the possibilities of MySQL here.
 
 ## Export Data From PyCharm
 
-- [The link](https://www.jetbrains.com/help/pycharm/export-data.html#methods-for-exporting-data).
+- [https://www.jetbrains.com/help/pycharm/export-data.html#methods-for-exporting-data](https://www.jetbrains.com/help/pycharm/export-data.html#methods-for-exporting-data)
