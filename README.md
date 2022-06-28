@@ -49,3 +49,7 @@ show tables;
 
 You can explore all the possibilities of MySQL here.
 - [MySQL docs](https://dev.mysql.com/doc/connector-python/en/)
+
+## Export Data From PyCharm
+
+- [The link](https://www.jetbrains.com/help/pycharm/export-data.html#methods-for-exporting-data).
